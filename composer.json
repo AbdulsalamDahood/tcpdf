@@ -14,9 +14,9 @@
 	},
 	"autoload": {
 		"classmap": [
-			"fonts",
-			"config",
-			"include",
+			"fonts/",
+			"config/",
+			"include/",
 			"tcpdf.php",
 			"tcpdf_parser.php",
 			"tcpdf_import.php",
